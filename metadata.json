@@ -1,0 +1,8 @@
+{
+  "name": "nexus chat",
+  "description": "A feature-rich WhatsApp clone with a responsive layout, persistent chat history, and an integrated Gemini AI assistant for real-time conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
